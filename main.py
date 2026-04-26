@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import random
 
-TOKEN = "8207192422:AAGOFlNl24ozs_6NcMpKXKbgJVGA_CfAgoQ"
+TOKEN = "///"
 bot = telebot.TeleBot(TOKEN)
 
 def main_keyboard():
